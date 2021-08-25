@@ -12,7 +12,7 @@
 ---Favorite food | pasta
 ---Pinneaple on pizza: [x] Yes/ [ ] No
 
-##** Hobbies**
+##**Hobbies**
 : - Drawings
 : - Manual labor
 : - Movies:
@@ -27,5 +27,4 @@ You are lost in a challenge that I can help you. It could be technical or feelin
 One day I was in pyjama and I chased away a mouse from my brother's house with his sneakers and I lost it on his neighbour's roof. The door was open and the wind close the door behind me. I didn't have the key and there was nobody at home. So I stayed in pyjama all day outside home waiting my brother's back.
 
 [<<previous]( ) || Sandra Mapessa || [next>>]( )
-
 
