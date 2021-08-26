@@ -2,22 +2,32 @@
 
 # Sandra MAPESSA
 *I'm a Web Developper*
+
 ![Moi](https://user-images.githubusercontent.com/89388284/130914421-d649e55b-cf1d-4e51-8fee-3fee71a50b86.jpg)
 
 ## **I'm just a girl in BeCode**
 
 ---Birthday | 29th March 1983
+
 ---Gender | Female
+
 ---Favorite color | Red
+
 ---Favorite food | pasta
+
 ---Pinneaple on pizza: [x] Yes/ [ ] No
 
 ## **Hobbies**
 : - Drawings
+
 : - Manual labor
+
 : - Movies:
+
   : - Drama
+  
   : - Comedy
+  
   : - Anime
 
 ## **You can always count on me when**
