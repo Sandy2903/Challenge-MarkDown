@@ -24,11 +24,11 @@
 
 : - Movies:
 
-  : - Drama
+     : - Drama
   
-  : - Comedy
+     : - Comedy
   
-  : - Anime
+     : - Anime
 
 ## **You can always count on me when**
 You are lost in a challenge that I can help you. It could be technical or feelings.
