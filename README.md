@@ -2,7 +2,7 @@
 
 # Sandra MAPESSA
 *I'm a Web Developper*
-![Hey! That's me!](/home/user/Images/Moi.jpg)
+![Moi](https://user-images.githubusercontent.com/89388284/130914421-d649e55b-cf1d-4e51-8fee-3fee71a50b86.jpg)
 
 ## **I'm just a girl in BeCode**
 
